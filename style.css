@@ -49,6 +49,15 @@ nav ul li a:hover {
     color: red;
 }
 
+.clock {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2rem;
+    color: black;
+    padding: 10px 15px;
+    background: lightgray;
+    border-radius: 5px;
+}
+
 /* Main Content Section */
 body {
     margin: 0;
